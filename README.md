@@ -11,3 +11,6 @@ The code also handles don't care conditions. Eg. of input format-
 ## Alternative
 This code is the most basic one, it can be highly optimized by Quine-McCluskey and Petrick methods.
 The details about these algorithms can be found [here](https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm), [here](https://en.wikipedia.org/wiki/Petrick%27s_method) & [here](http://www.cs.columbia.edu/~cs6861/handouts/quine-mccluskey-handout.pdf)
+## Contact
+Telegram:
+> @M_A_A_L_I_K
