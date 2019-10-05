@@ -5,9 +5,9 @@ The Karnaugh Map or K-Map is a method of simplifying Boolean algebra expressions
 ## Code
 2 python files are attached, 1 contains the function for minimization, while the other for checking it.
 The code also handles don't care conditions. Eg. of input format-
-  No. of variables: 4
-  Function: (1,3,7,11,15) d (0,2,5)
-  Simplified expression: yz+w’x’ OR yz+w’z
+-  No. of variables: 4
+-  Function: (1,3,7,11,15) d (0,2,5)
+-  Simplified expression: yz+w’x’ OR yz+w’z
 ## Alternative
 This code is the most basic one, it can be highly optimized by Quine-McCluskey and Petrick methods.
 The details about these algorithms can be found [here](https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm), [here](https://en.wikipedia.org/wiki/Petrick%27s_method) & [here](http://www.cs.columbia.edu/~cs6861/handouts/quine-mccluskey-handout.pdf)
