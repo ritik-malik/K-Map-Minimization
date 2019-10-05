@@ -10,4 +10,4 @@ The code also handles don't care conditions. Eg. of input format-
   Simplified expression: yz+w’x’ OR yz+w’z
 ## Alternative
 This code is the most basic one, it can be highly optimized by Quine-McCluskey and Petrick methods.
-The details about the algorithms can be found [here] (https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm, https://en.wikipedia.org/wiki/Petrick%27s_method) & [here] (http://www.cs.columbia.edu/~cs6861/handouts/quine-mccluskey-handout.pdf)
+The details about these algorithms can be found [here](https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm), [here](https://en.wikipedia.org/wiki/Petrick%27s_method) & [here](http://www.cs.columbia.edu/~cs6861/handouts/quine-mccluskey-handout.pdf)
